@@ -1,0 +1,7 @@
+In about us file create a page with all details that every tourism company should have so take idea from internet and use in it.
+In homepage at top add a namaste emoji as tourism company always welcomes their travellers.
+Took my state as tourist place and add few cities of that state which is tourist place.
+writes few details about Uttar Pradesh which I read from internet for clear details.
+Added 4 famous places of Uttar Pradesh.
+Added link of city which is taken refrence from wikipedia so anyone can read about that particular city.
+All HTML page link has been linked so Viewer can read about us, Contact us and also about climate.
